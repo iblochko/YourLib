@@ -2,7 +2,9 @@
 
 Веб-приложение для создания персональной библиотеки фильмов и книг с системой оценок, рецензий и рекомендаций. Отслеживайте просмотренное и прочитанное, делитесь мнением и открывайте новые произведения.
 
-**Django** **Python** **PostgreSQL**
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-4.2-green)](https://djangoproject.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue)](https://www.postgresql.org/)
 
 ## ✨ Возможности
 
