@@ -158,6 +158,14 @@
 - **Макет 3: Форма поиска и добавления.**
 
 <img width="912" height="708" alt="object" src="https://github.com/iblochko/YourLib/blob/main/Documentation/Mockups/search.png?raw=true" />
+
+- **Макет 4: Форма входа и регистрации.**
+
+<img width="912" height="708" alt="object" src="https://github.com/iblochko/YourLib/blob/main/Documentation/Mockups/Log in window.png?raw=true" />
+
+- **Макет 5: Панель администратора.**
+
+<img width="912" height="708" alt="object" src="https://github.com/iblochko/YourLib/blob/main/Documentation/Mockups/Admin panel.png?raw=true" />
     
 
 ### 2.3 Характеристики пользователей
@@ -200,7 +208,7 @@
     
 - **Пользователи будут добавлять контент добросовестно,** не нарушая авторских прав и не занимаясь спамом.
     
-- **Для монетизации via партнерские ссылки** необходимо заключение соответствующих договоров с партнерскими программами.
+- **Для монетизации через партнерские ссылки** необходимо заключение соответствующих договоров с партнерскими программами.
 
 [⬆ К содержанию](#содержание)
 
